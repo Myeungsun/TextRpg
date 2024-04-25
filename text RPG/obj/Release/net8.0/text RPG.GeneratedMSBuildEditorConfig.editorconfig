@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = text_RPG
-build_property.ProjectDir = C:\Users\MS\TextRpg\text RPG\
+build_property.ProjectDir = D:\Unity\text RPG\text RPG\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

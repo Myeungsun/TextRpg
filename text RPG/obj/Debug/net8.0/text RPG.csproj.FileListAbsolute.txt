@@ -12,3 +12,18 @@ D:\Unity\text RPG\text RPG\obj\Debug\net8.0\refint\text RPG.dll
 D:\Unity\text RPG\text RPG\obj\Debug\net8.0\text RPG.pdb
 D:\Unity\text RPG\text RPG\obj\Debug\net8.0\text RPG.genruntimeconfig.cache
 D:\Unity\text RPG\text RPG\obj\Debug\net8.0\ref\text RPG.dll
+C:\Users\MS\TextRpg\text RPG\bin\Debug\net8.0\text RPG.exe
+C:\Users\MS\TextRpg\text RPG\bin\Debug\net8.0\text RPG.deps.json
+C:\Users\MS\TextRpg\text RPG\bin\Debug\net8.0\text RPG.runtimeconfig.json
+C:\Users\MS\TextRpg\text RPG\bin\Debug\net8.0\text RPG.dll
+C:\Users\MS\TextRpg\text RPG\bin\Debug\net8.0\text RPG.pdb
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.AssemblyInfoInputs.cache
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.AssemblyInfo.cs
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.csproj.CoreCompileInputs.cache
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.sourcelink.json
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.dll
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\refint\text RPG.dll
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.pdb
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\text RPG.genruntimeconfig.cache
+C:\Users\MS\TextRpg\text RPG\obj\Debug\net8.0\ref\text RPG.dll
